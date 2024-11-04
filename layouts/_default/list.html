@@ -1,0 +1,7 @@
+<!-- <h1>{{ .Title }}</h1> -->
+<p> {{ .Content }} </p>
+<ul>
+    {{ range .Pages }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+</ul>

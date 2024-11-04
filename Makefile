@@ -1,2 +1,6 @@
 all:
-	hugo server --noHTTPCache
+	# hugo server --noHTTPCache --buildDrafts
+	hugo server --buildDrafts
+
+clean:
+	rm -rf public
