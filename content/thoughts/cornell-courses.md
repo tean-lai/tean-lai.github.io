@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "On Courses I've Taken at Cornell"
 +++
 [home](../..) | [about me](../../about) | [thoughts](..)
