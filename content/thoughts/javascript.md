@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "On JavaScript"
 +++
 [home](../..) | [about me](../../about) | [thoughts](..)

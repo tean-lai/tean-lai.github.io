@@ -1,6 +1,6 @@
 +++
 date = '2024-11-04T09:46:03-05:00'
-draft = true
+draft = false
 title = 'About'
 +++
 [home](..) | [about me](.) | [thoughts](../thoughts)
