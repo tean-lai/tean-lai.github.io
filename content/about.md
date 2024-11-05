@@ -6,21 +6,21 @@ title = 'About'
 [home](..) | [about me](.) | [thoughts](../thoughts)
 
 # About Me
-Hello! I am Tean Lai, and I'm currently:
-- a junior computer science major @ Cornell
-- a Academic Excellence Workshop facilitator for CS 3410
+Hello! I am Tean Lai, and I'm currently a/n:
+- junior computer science major @ Cornell
+- Academic Excellence Workshop facilitator for CS 3410
 - digital subteam member of Cornell Custom Silicon System project team
-- an incoming Software Engineering intern in Program Analysis @ Semgrep
+- incoming Software Engineering intern in Program Analysis @ Semgrep
 - food service employee at Martha's Cafe
 
-Previously, I have been:
-- a teaching assistant for CS 3110
-- an undergraduate researcher studying programming languages and formal verification, advised by Prof. Justin Hsu and Noah Bertram
+Previously, I have been a/n:
+- teaching assistant for CS 3110
+- undergraduate researcher in programming languages and formal verification
 
 ## Academic interests
-I am passionate about programming languages, and especially functional programming. My favorite programming language is OCaml, which I encourage you to try out if you haven't. 
+I am passionate about programming languages, and especially functional programming. My favorite programming language is OCaml, and I'm really interested in learning more Go if I have time.
 
-My other academic interests lie in digital logic. 
+My other academic interests lie in digital logic and algebra.
 
 # Experiences
 
