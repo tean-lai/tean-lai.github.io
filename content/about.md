@@ -22,6 +22,15 @@ I am passionate about programming languages, and especially functional programmi
 
 My other academic interests lie in digital logic and algebra.
 
+
+## Hobbies
+
+I tend to pick up new hobbies and drop them pretty quickly, so I'm kind of an amateur at everything.
+
+Here are some hobbies I have been going on and off:
+- Video games! I've played way too much League of Legends during COVID. I like to cope by telling myself that learning how to climb in League has made me into a better student. 
+
+
 # Experiences
 
 ## CS 3410 AEW Facilitator
