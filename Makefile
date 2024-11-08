@@ -1,6 +1,6 @@
 all:
 	# hugo server --noHTTPCache --buildDrafts
-	hugo server
+	hugo server --disableFastRender
 
 clean:
 	rm -rf public

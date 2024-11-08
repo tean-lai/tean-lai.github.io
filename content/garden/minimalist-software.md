@@ -2,7 +2,6 @@
 draft = false
 title = "On Minimalist Software"
 +++
-[home](../..) | [about me](../../about) | [thoughts](..)
 # On Minimalist Software
 
 In the summer of 2024, I took a dive into Linux (because tiling window managers seemed so damn cool), and along the way, I had discovered the concept of "minimalist software".

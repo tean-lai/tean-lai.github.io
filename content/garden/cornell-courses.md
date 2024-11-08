@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "On Courses I've Taken at Cornell"
+date = "2024-11-08"
 +++
-[home](../..) | [about me](../../about) | [thoughts](..)
 # On Courses I've Taken at Cornell
 
 ## Semester 1 (Fall 2022)
@@ -31,7 +31,7 @@ Very interesting class, lots of very interesting topics. Only sad thing was that
 
 I think it's really funny how my school refers to every core CS class by their numbers, like 2110, 3110, and 3410, but this class is just "algo". 
 
-## HD 3620: Human Bonding
+### HD 3620: Human Bonding
 One of the best courses I've taken at this school. It's such an applicable topic to life. I will probably carry the things I've learned in this class for the rest of my life.
 
 ### MATH 2210: Linear Algebra
@@ -84,6 +84,6 @@ This class is so much work. I am learning a lot about circuits though...
 This class is interesting, I wish we did more proofs though. But it's cool to see appliactions of real and complex analysis.
 
 ### ECE 4750: Computer Architecture
-Very interesting class. 
+Very interesting class! So far, I think the coolest thing we've implemented is a fully pipelined RISC-V processor. Later this semester, we will get to implement a multi-core processor, after having implemented our own cache, I do find that pretty exciting. I think it's a very interesting way to think about computing. I think it's very worth taking computer architecture if you want to have a solid foundation in computing. 
 
-Has definitely changed the way I had viewed testing though. 
+This class has taught me that testing is very hard though.

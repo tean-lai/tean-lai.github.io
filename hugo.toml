@@ -2,30 +2,30 @@ baseURL = 'https://tean-lai.github.io/'
 # baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = "Tean's Website"
-theme = "poison"
+theme = "hugo-bearblog"
 
 [params]
 #   hideToc = true
   brand = "Tean Lai"
   description = "a website"
   dark_mode = true
-  menu = [
-    { Name = "About", URL = "/", HasChildren = false },
-    { Name = "Thoughts", URL = "/thoughts/", HasChildren = false, Limit = 5},
-  ]
+#  menu = [
+#    { Name = "About", URL = "/", HasChildren = false },
+#    { Name = "Thoughts", URL = "/thoughts/", HasChildren = false, Limit = 5},
+#  ]
 
-# [menu]
+
+[menu]
 #   [[menu.main]]
 #     name = "Home"
 #     url = "/"
 #     weight = 1
-# 
-#   [[menu.main]]
-#     name = "About Me"
-#     url = "/about/"
-#     weight = 2
-# 
-#   [[menu.main]]
-#     name = "Thoughts"
-#     url = "/thoughts/"
-#     weight = 3
+# [[menu.main]]
+#   name = "About Me"
+#   url = "/about/"
+#   weight = 2
+
+[[menu.main]]
+  name = "Garden"
+  url = "/garden/"
+  weight = 3
