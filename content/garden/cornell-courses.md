@@ -77,7 +77,7 @@ Studying for CS 6861 trivialized the abstract math part of this class. I thought
 ## Semester 5 (Fall 2025)
 
 ### ECE 2100: Introduction to Circuits
-This class is so much work. I am learning a lot about circuits though...
+This class is so much work. I am learning a lot about circuits though... 
 
 
 ### ECE 3250: Signals and Systems

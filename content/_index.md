@@ -1,22 +1,23 @@
 Hi, I'm Tean. I am a 3rd year CS major interested in programming languages and hardware. Welcome to my website!
 
-I'm from the suburbs of Philly, and am  going to school in Ithaca, NY.
+If you're here for the CS 3410 AEW stuff, [CLICK HERE](cs3410-aew)!
+
+
+I'm from the Philly, and am going to school in Ithaca, NY.
 
 I am also:
 - a member of Cornell Custom Silicon System's digital subteam
 - an incoming software engineering intern in program analysis at Semgrep
 - an Academic Excellence Workshop facilitator for CS 3410
 
-
-
 ## Academic Interests
-I really like programming languages. I am fortunate to have been exposed to many langauges. In the order of languages I had learned, it would be: QuickBASIC 64, Python, Ti-Basic, C++, Java, OCaml, C. Click [here](garden/my-programming-journey) if you want to hear more about my programming language journey. My favorite language now is OCaml, and sometimes I think I bring up functional programming more than it is healthy.
+I really like programming languages. I am fortunate to have been exposed to many langauges.  The languages I had learned (in order) are: QuickBASIC 64, Python, Ti-Basic, C++, Java, OCaml, C. Click [here](garden/my-programming-journey) if you want to hear more about my programming language journey. My favorite language honestly changes a lot, but my current favorites are Python, OCaml, and C. My least favorite is Verilog by far, but it might just be a skill issue since I'm still a hardware noob.
 
-I also like digital logic. It's honestly kind thinking in a problem domain that involves so much concurrency, but at the same time trying to create some sequential meaning out of it. 
+I also like digital design. I've been getting destroyed by a course in computer architecture lately, but it is kind of fun.
 
 
 ## Hobbies
-I tend to pick up new hobbies and drop them pretty quickly, so I'm kind of an amateur at everything. I think that just be who I am though, but I do tend to revisit hobbies, it just comes in phases.
+I tend to pick up new hobbies and switch around pretty quickly, so I'm kind of an amateur at everything. 
 
 Here are some hobbies I have been going on and off:
 - Video games! My favorite games include League of Legends, Xenoblade Chronicles (1/2/3), and also Zelda. Currently, I'm trying to play some more retro games. 

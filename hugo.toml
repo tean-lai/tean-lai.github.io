@@ -13,6 +13,7 @@ theme = "hugo-bearblog"
 #    { Name = "About", URL = "/", HasChildren = false },
 #    { Name = "Thoughts", URL = "/thoughts/", HasChildren = false, Limit = 5},
 #  ]
+#  math = true
 
 
 [menu]
@@ -26,6 +27,12 @@ theme = "hugo-bearblog"
 #   weight = 2
 
 [[menu.main]]
-  name = "Garden"
+  name = "Digital Garden"
   url = "/garden/"
   weight = 3
+
+[[menu.main]]
+  name = "CS 3410 AEW Stuff"
+  url = "/cs3410-aew/"
+  weight = 4
+

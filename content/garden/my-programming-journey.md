@@ -15,5 +15,5 @@ After Ti-Basic, I picked up C++, since it's probably the best language for compe
 After that, I studied Java because of AP Computer Science A and also my first semester computing course CS 2110 at college.
 
 ## OCaml
-But the best part is afterwards, when I took CS 3110 and was exposed to my favorite language of all time, OCaml! 
+But the best part is afterwards, when I took CS 3110 and was exposed to one of my favorite languages, OCaml!
 
