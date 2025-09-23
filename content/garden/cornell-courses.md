@@ -77,13 +77,49 @@ Studying for CS 6861 trivialized the abstract math part of this class. I thought
 ## Semester 5 (Fall 2025)
 
 ### ECE 2100: Introduction to Circuits
-This class is so much work. I am learning a lot about circuits though... 
+This class is so much work. I learned a lot about circuits though.
+
+It complimented signals and systems really well, and I think it overall improved my ability to reason about systems, which I anticipate could be useful even in a career in software.
 
 
 ### ECE 3250: Signals and Systems
 This class is interesting, I wish we did more proofs though. But it's cool to see appliactions of real and complex analysis.
 
+I didn't anticipate ECE courses to get so close to pure math in general, but overall I thought it was a great class.
+
+I thought it really helped strengthen foundations that I lacked from CS courses. I had learned about things like the Fast Fourier Transform in CS 4820, but at that time it was poorly motivated (especially when they started chucking in complex numbers). Even if I don't do signals processing stuff, I anticipate the things learned in this class will server useful in CS, especially in things related to machine learning, since many ML systems are similar to the systems in this class.
+
 ### ECE 4750: Computer Architecture
 Very interesting class! So far, I think the coolest thing we've implemented is a fully pipelined RISC-V processor. Later this semester, we will get to implement a multi-core processor, after having implemented our own cache, I do find that pretty exciting. I think it's a very interesting way to think about computing. I think it's very worth taking computer architecture if you want to have a solid foundation in computing. 
 
 This class has taught me that testing is very hard though.
+
+EDIT: I implemented that processor. But it's sad that this semester they got rid of the branch predictor, and the multi-core implementation was a little sadder than I thought it was going to be. The caching for multiple cores worked by using this thing called "banking", but essentially this means you don't need any kind of coherence protocols.
+
+The class was still cool overall, but I felt there wasn't enough time to go over cool things. Things like out-of-order execution and superscalar execution were only covered in a few lectures near the end of the course, and I feel that more time should have been spent on those topics.
+
+## Semester 6 (Spring 2025)
+
+This semester I went ham on AI courses. I finally acknowledged that AI isn't going anywhere, and I should be educated on them.
+
+### CS 4789: Reinforcement Learning
+
+The subject is very cool, the lectures were just very dry.
+
+Lots of cool math, and lots of cool results.
+
+### CS 4740: Natural Language Processing
+
+One of the worst courses I've ever taken. The assignments sucked, lectures sucked, generally everything kind of sucked about the design of this course.
+
+It doesn't make sense for this course to not require machine learning as a pre-req, because half the class ends up being a ML course, but just worse than the real ML course.
+
+I don't think I'm a fan of assignments that require training that can last 30 minutes. The feedback is way too long, and students with superior training machines can benefit much more. To some extent, I understand that people with better intuition probably need to train less, but for beginners who lack that intuition, having more feedback loops seem ideal, and these assignments do not optimize for that.
+
+## Semester 7 (Fall 2025)
+
+### ECE 6775: High Level Synthesis
+
+### CS 4414: Systems Programming
+
+### CS 5414: Distributed Computing

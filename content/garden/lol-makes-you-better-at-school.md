@@ -6,7 +6,7 @@ To truly get better at the game, humility is a must. I think your rank is in Lea
 
 Playing league has taught me the effects of the growth mindset. For psychological reasons, I think it's important to have several examples in your life that demonstrate how effort has lead to growth. When you struggle in life, you can fallback on these experiences to motivate you.
 
-I think the combination of these factors had lead to me being a better student as I entered college. 
+I think the combination of these factors had lead to me being a better student as I entered college.
 
 
 
