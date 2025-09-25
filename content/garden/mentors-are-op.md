@@ -8,4 +8,4 @@ Mentors also can give guidance on the best skills to develop first, whether just
 
 Mentors can be good role models.
 
-I've been fortunate to have had many great mentors in my life.
+I've been fortunate to have had many great mentors in my life. But through them I can see that they are overpowered. I'm going to have socioeconomic mobility, much higher than people who have comparable backgrounds and even higher than many with better socioeconomic backgrounds, in large part because of my mentors.

@@ -31,6 +31,12 @@ theme = "hugo-bearblog"
   url = "/garden/"
   weight = 3
 
+[[menu.main]]
+  name = "Professional"
+  url = "/pro/"
+  weight = 4
+
+
 # [[menu.main]]
 #   name = "CS 3410 AEW Stuff"
 #   url = "/cs3410-aew/"
