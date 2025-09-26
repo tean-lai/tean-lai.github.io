@@ -13,7 +13,7 @@ Well, one not so valid reason I think it's absurd is because I do get a bit unco
 
 But the more valid reason is because MY POOR BATTERY LIFE. At this point, I expect laptop batteries to be able to last for a week! This is mostly because my first smartphone was an old one that *was* able to last a week. I would have thought we've reached a point where our cpus get more and more energy efficient and therefore we would have longer battery lives.
 
-## Why I software is so damn bloated
+## I think consumerism is why software is so damn bloated
 
 But the unfortunate reality is that as processors get more powerful, we just scale up the software complexity. I think part of the problem is due to rampant consumerism. I think sites like YouTube had been perfect, but now they keep adding extra stuff that I think adds negative value to the site, like YouTube Shorts.
 
