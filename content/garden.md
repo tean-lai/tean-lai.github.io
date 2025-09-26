@@ -17,5 +17,6 @@ Welcome to my digital garden. I am developing some thoughts here, it's kind of l
 - [Ragebaiting only works against people with weak characters](ragebait-and-character)
 - [On transfer of learning](learning-transfer)
 - [On mental models](mental-models)
+- [Vim sorta makes me more productive](vim-and-productivity)
 <!-- asian american experience -->
 
