@@ -2,7 +2,9 @@
 
 I am a computer scientist interested in programming languages and computer microarchitecture. I'm in my senior year of college at Cornell. Welcome to my website!
 
-Lately been focusing on moral development, whatever that entails.
+To be honest, I'm not quite sure what I want out of this website. To some extent, it feels like I'm just doxxing myself.
+
+But sometimes I do find other people's websites to be inspiring in some way. Either because it's cool to see what projects they're up to, or to see what they're thinking. I'm not sure when I'll be able to put cool projects up, but maybe non-cool projects could be inspiring for someone who is also an amateur. I feel that it is comforting sometimes to see that not everyone is turbo-cracked, and that's okay.
 
 ## Hobbies
 I have a variety of hobbies I rotate between:
