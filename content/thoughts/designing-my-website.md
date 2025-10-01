@@ -23,6 +23,8 @@ I have thoughts... and I have experiences. I want to share them. I think I could
 
 I find that it's quite easy to feel lonely in life, when you don't feel as if others can relate to your perspective. I think one way to relieve this is by hearing more perspectives that are similar. Maybe my perspective will align with some visitor of this page, and can alleviate some loneliness.
 
+Even if my perspective doesn't align, it could serve some use by providing individuals alternative perspectives in life! I find having different ways of thinking severely improves my ability to solve programming problems, it could be the same for life in general.
+
 ## I took a course on professional website development
 
 As one of my engineering degree's requirements, I had to take a communications cousre. I could take a variety of courses to fulfill this requirement, and I chose one that centered around developing professional websites.

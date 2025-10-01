@@ -3,7 +3,7 @@
 ### Journey behind decisions made
 <!-- - [On settling on tools to use](finding-tools) -->
 <!-- - [Choosing a text editor](choosing-a-text-editor) -->
-- [On deciding what this website should be about](designing-my-website)
+- [Deciding what this website should be about](designing-my-website)
 
 ### Reviews
 - [Reviewing courses I've taken at Cornell](cornell-courses)
@@ -12,6 +12,7 @@
 ## Experiences
 <!-- - [I joined a hardware-focused project team, despite being a "software person"] -->
 - [Developing arthritis as a teen](teenage-arthritis)
+<!-- TODO: My younger brother developed my patience -->
 
 
 ### World view
@@ -21,6 +22,7 @@
 - [Navigating toxic friendships](toxic-friendships)
 - [The value in pursuing excellence](pursuit-of-excellence)
 - [Ragebaiting only works against people with weak characters](ragebait-and-character)
+<!-- TODO: Achieving awareness is 50% of the work done. -->
 
 ### Learning
 - [On transfer of learning](learning-transfer)
