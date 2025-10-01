@@ -27,8 +27,8 @@ theme = "hugo-bearblog"
 #   weight = 2
 
 [[menu.main]]
-  name = "Digital Garden"
-  url = "/garden/"
+  name = "Thoughts"
+  url = "/thoughts/"
   weight = 3
 
 [[menu.main]]
