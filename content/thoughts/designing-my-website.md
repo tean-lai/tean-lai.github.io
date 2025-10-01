@@ -45,4 +45,4 @@ I don't want this page to be bloated. Less bloated pages have the benefit of mak
 
 It's still possible to make sites look aesthetically appealing with minimal JavaScript.
 
-I believe that we should work with computers as they are, not what we think they are. They are not just abstract machines, but concrete machines that take resources to operate. Different abstractions require different amounts of resources, and I want to be mindful of such resource-usage when choosing which abstractions to use
+I believe that we should work with computers as they are, not what we think they are. They are not just abstract machines, but concrete machines that take resources to operate. Different abstractions require different amounts of resources, and I want to be mindful of such resource-usage when choosing which abstractions to use. This is more a general statement, not trying to shame JavaScript users in particular. With JavaScript, there are many things you can build that are much harder to do otherwise, and there is value in building such things too.

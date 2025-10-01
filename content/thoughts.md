@@ -12,7 +12,17 @@
 ## Experiences
 <!-- - [I joined a hardware-focused project team, despite being a "software person"] -->
 - [Developing arthritis as a teen](teenage-arthritis)
+- [Struggling with a love for drama](struggling-with-drama)
+<!-- - I once gave up on math -->
+<!-- - All my friends were gifted kids, I was not -->
+<!-- - My relationship with talent -->
+<!-- - [I once gave up on math](giving-up-on-math) -->
+<!-- - [All my friends were gifted kids, I wasn't](gifted-friends-ungifted-me) -->
+<!-- - [Struggling with a lack of talent](struggling-with-talent) -->
 <!-- TODO: My younger brother developed my patience -->
+<!-- - [Struggling with getting a good sleep schedule](struggling-with-sleep) -->
+<!-- - [Struggling with pride](struggling-with-pride) -->
+<!-- - [What does it mean to be a good person?](what-is-a-good-person) -->
 
 
 ### World view
