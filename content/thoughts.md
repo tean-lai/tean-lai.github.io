@@ -11,7 +11,7 @@
 
 ## Experiences
 <!-- - [I joined a hardware-focused project team, despite being a "software person"] -->
-- [Having arthiritis as a teen](teenage-arthritis)
+- [Developing arthritis as a teen](teenage-arthritis)
 
 
 ### World view

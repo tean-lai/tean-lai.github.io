@@ -101,7 +101,24 @@ You can get your wallet stolen, but when you finally accept you're not getting t
 
 After a certain point, I paid a lot more attention to things I still had around. I even started being grateful for air conditioning.
 
-Practicing gratitude saved me. My life was still very much abundant. There was still joy in just living for the sake of living.
+Practicing gratitude saved me. My life was still very much abundant. I found joy in just living for the sake of living.
 
+
+## Why I still started taking medication
+
+It feels hyprocritical, taking stronger medication despite feeling I attained "acceptance".
+
+But the pain continued to become more unbearable. And the prospects of joints potentially fusing did not help. I also did not want to be physically dependent on relatives for the rest of my life.
+
+While I believe I have achieved comfort with arthritis at an emotional level, it still had physical consequences, and it was important to me to try to manage that.
+
+
+## One bonus benefit
+
+While I had found a lot of anguish in going through health struggles without many others to relate to. At this point, my peers are slowly starting to catch up with health problems, sadly.
+
+It does provide me some comfort knowing that I can provide some support in some ways that was unavailable to me. They still have to go through the majority of the struggles themselves, but I hope they find comfort in knowing they are not alone.
+
+And even back then, I wasn't completely alone. I did start journeying onto Reddit, where you can find communities of people going through very similar issues.
 
 
