@@ -12,7 +12,6 @@
 ## Experiences
 <!-- - [I joined a hardware-focused project team, despite being a "software person"] -->
 - [Developing arthritis as a teen](teenage-arthritis)
-- [Struggling with a love for drama](struggling-with-drama)
 <!-- - I once gave up on math -->
 <!-- - All my friends were gifted kids, I was not -->
 <!-- - My relationship with talent -->
@@ -23,7 +22,9 @@
 <!-- - [Struggling with getting a good sleep schedule](struggling-with-sleep) -->
 <!-- - [Struggling with pride](struggling-with-pride) -->
 <!-- - [What does it mean to be a good person?](what-is-a-good-person) -->
-
+## Internal struggles
+- [Struggling with a love for drama](struggling-with-drama)
+- [Struggling with naivety](struggling-with-naivety)
 
 ### World view
 - [A more realistic interpretation of the tortoise and the hare](turtle-and-bunny)
