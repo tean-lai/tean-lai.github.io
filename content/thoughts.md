@@ -25,18 +25,19 @@ toc = true
 ## Internal struggles
 - [Struggling with a love for drama](struggles/drama)
 - [Struggling with naivety](struggles/naivety)
+- [Struggling with fear](struggles/fear)
 <!-- - [Struggling with a lack of talent](struggling-with-talent) -->
 <!-- - [Struggling with pride](struggling-with-pride) -->
 
 ## World view
 - [How I want to approach life](my-approach-in-life)
-- [What I'm scared of](my-fears)
 - [A more realistic interpretation of the tortoise and the hare](turtle-and-bunny)
 - [Empathy is much harder than people give credit for](empathy-is-hard)
 - ["Talent" is an illusion](illusion-of-talent)
 - [Navigating toxic friendships](toxic-friendships)
 - [The true value in pursuing excellence](world-view/pursuit-of-excellence)
 - [Ragebaiting only works against people with weak characters](ragebait-and-character)
+- [Good parents trump socioeconomic privilege](parents-over-socioeconomic)
 <!-- TODO: Achieving awareness is 50% of the work done. -->
 
 ## Learning
