@@ -4,7 +4,7 @@ updated = "2025-10-5"
 +++
 **protean (adj): able to do many different things; versatile.**
 
-I'm currently a Head TA for [CS 3110](cs-3110) and an RTL Member for [C2S2](c2s2).
+I'm currently a Head TA for [CS 3110](cs-3110) and an RTL Member for [Cornell Custom Silicon Systems](c2s2).
 
 My next stop is returning to Semgrep, to work on program analysis.
 

@@ -9,7 +9,7 @@ toc = true
 
 ## Reviews
 - [Reviewing courses I've taken at Cornell](cornell-courses)
-- [Reviewing games I've played](my-thoughts-on-games)
+- [Reviewing games I've played](reviews/games)
 - [Reviewing programming languages](reviews/programming-languages)
 
 ## Experiences
