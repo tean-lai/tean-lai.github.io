@@ -1,0 +1,10 @@
+strong, b {
+    /* color: #e63946; */
+    color: #eec35e;  /* coupled with main.css */
+    font-weight: bold;
+}
+
+
+.red-text {
+    color: #e63946;
+}

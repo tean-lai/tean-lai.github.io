@@ -1,44 +1,40 @@
-baseURL = 'https://tean-lai.github.io/'
-# baseURL = 'http://localhost:1313/'
+baseURL = 'https://tean-lai.github.io/'  # 'http://localhost:1313/'
 languageCode = 'en-us'
 title = "Tean's Website"
-theme = "hugo-bearblog"
-
+theme = "hugo-theme-terminal"
+pagination.pagerSize = 5  # not sure what this does
 [params]
-#   hideToc = true
   brand = "Tean Lai"
   description = "a website"
-  dark_mode = true
-#  menu = [
-#    { Name = "About", URL = "/", HasChildren = false },
-#    { Name = "Thoughts", URL = "/thoughts/", HasChildren = false, Limit = 5},
-#  ]
-#  math = true
-
-
-[menu]
-#   [[menu.main]]
-#     name = "Home"
-#     url = "/"
-#     weight = 1
-# [[menu.main]]
-#   name = "About Me"
-#   url = "/about/"
-#   weight = 2
-
-[[menu.main]]
-  name = "Thoughts"
-  url = "/thoughts/"
-  weight = 3
-
-[[menu.main]]
-  name = "Professional"
-  url = "/pro/"
-  weight = 4
-
-
-# [[menu.main]]
-#   name = "CS 3410 AEW Stuff"
-#   url = "/cs3410-aew/"
-#   weight = 4
-
+  centerTheme = true
+  showLastUpdated = true
+  updatedDatePrefix = "Updated"
+  Toc = false
+[markup.highlight]
+  noClasses = false  # Required for Chroma and custom syntax highlighting
+[languages]
+  [languages.en.params.logo]
+    logoText = "Tean"
+    logoHomeLink = "/"
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "thoughts"
+      name = "Thoughts"
+      url = "/thoughts"
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "wiki"
+      name = "Wiki"
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = "professional"
+      name = "Professional"
+      url = "/pro-tean"
+      weight = 4
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,8 +1,8 @@
 ## League of Legends made me a better student
 
-I am of the opinion, that playing many hours of League of Legends in high school has made me into a better student.
+Playing many hours of League of Legends in high school has made me into a better student.
 
-To truly get better at the game, humility is a must. I think your rank is in League is a very accurate indiciator of your skill in the game. If you are unable to rank up, you probably deserve that due to your skill. Many players may try to convince you otherwise, that they are simply in "elo hell", that is no matter how good of a player you are, it would be impossible rank up out of there because your teammates are all bad at the game. It's complete bullshit.
+To truly rank up at the game, one needs humility. Many players blame their poor rank on the bad teammates they get in every game. The average player's rank is even deemed "elo hell".
 
 Playing league has taught me the effects of the growth mindset. For psychological reasons, I think it's important to have several examples in your life that demonstrate how effort has lead to growth. When you struggle in life, you can fallback on these experiences to motivate you.
 
