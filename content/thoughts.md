@@ -5,11 +5,12 @@ toc = true
 ## Projects 
 <!-- - [On settling on tools to use](finding-tools) -->
 <!-- - [Choosing a text editor](choosing-a-text-editor) -->
-- [Deciding what this website should be about](designing-my-website)
+- [Designing my website](projects/designing-my-website)
 
 ## Reviews
 - [Reviewing courses I've taken at Cornell](cornell-courses)
 - [Reviewing games I've played](my-thoughts-on-games)
+- [Reviewing programming languages](reviews/programming-languages)
 
 ## Experiences
 <!-- TODO: - [I joined a hardware-focused project team, despite being a "software person"] -->

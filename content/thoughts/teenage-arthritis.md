@@ -1,8 +1,8 @@
-# Teenage arthiritis
++++
+title = "Teenage arthritis"
++++
 
-Written: 10/1/2025. Still a work in progress.
-
-I am officially diagnosed with enthesitis-related arthiritis. This means my ligaments get inflamed and cause joint pain. If it's unmanaged, it could cause my joints to fuse. Thankfully, I am now taking medication, specifically Humira, which treats it quite well. In my current life, I don't experience much joint pain. However, in the first several years of having arthritis, it was not treated adequately, and it greatly shaped how I view the world.
+I am officially diagnosed with enthesitis-related arthritis. This means my ligaments get inflamed and cause joint pain. If it's unmanaged, it could cause my joints to fuse. Thankfully, I am now taking medication, specifically Humira, which treats it quite well. In my current life, I don't experience much joint pain. However, in the first several years of having arthritis, it was not treated adequately, and it greatly shaped how I view the world.
 
 ## My first months with an invisible and uncommon condition
 
@@ -18,7 +18,7 @@ I didn't know WHO to talk to. At that point, I knew no one in my life that had g
 
 I didn't *want* to go around telling everyone that I was in pain, but at the same time, I desperately wanted to, to feel seen. Even if I told people, if I acted fine enough, people tended to forget. At the same time, I didn't want to make it my life, but it was a very big part of my life at the moment. The disconnect in how the world saw me, and how I experienced the world continued to grow.
 
-- Internal pain had borne a variety of additional internal struggles
+**Internal pain had borne a variety of additional internal struggles.**
 
 But I did realize that many people likely had struggles no one else can see. If you don't share your struggles, it's hard for others to know. But if you do share them, chances are much higher you will find people to support you.
 
@@ -36,7 +36,7 @@ After a year or so, I had started bugging my mom to take me to see a doctor. I s
 
 The first doctor I went to diagnosed me with trochanteric bursitis. It was an acute pain that affected runners fairly often, and he told me I could be treated through physical therapy. Since it was a non-medicine route, my mom was very much in favor of this route.
 
-- Physical therapy is really fucking expensive
+**Physical therapy is really expensive.**
 
 After several months of sessions, it didn't seem like it was working. Those months also cost us thousands of dollars. The doctor had recommended me to take some medication, but my mom was very much against this.
 
@@ -46,7 +46,7 @@ The cruel irony was finding out months later that he was also wrong.
 
 Eventually, I started seeing doctors at CHOP, the Children's Hospital at Philadelphia. They tested me more extensively, using MRIs, and overall collecting a lot more information. They had finally given me the diagnosis of *enthesitis-related arthritis*.
 
-- Having an accurate diagnosis gave me comfort
+**Having an accurate diagnosis gave me comfort.**
 
 Before, I had concerns that my pain was "all in my head". But having a label on things helped me much feel better, even though no real treatment has been done yet!
 
@@ -60,12 +60,12 @@ In the end, I postponed taking medications like Enbrel and Humira, opting to try
 
 At a certain point, I started to get quite frustrated.
 
-- Why did I develop arthritis, when no one I knew of the same age did the same?
-- Why me?
+**Why did I develop arthritis, when no one I knew of the same age did the same?**
+**Why me?**
 
 I couldn't help feel that maybe karma existed in this world, and maybe it was due to that. Maybe I committed a ton of crimes in my previous life or something.
 
-- I wanted to grasp for a reason why this was happening at all.
+**I wanted to grasp for a reason why this was happening at all.**
 
 ## 3rd stage of grief: bargaining
 
@@ -87,7 +87,7 @@ I lost ambition in school and in my work. What was the point of investing in you
 
 I wanted to be pain free, that was one of things that I wanted most. Things like money and status lost meaning to me. A good life to me started to mean freedom. Freedom to move how you wish, to do what you want to do. Freedom from a constant barrage of pain.
 
-- Money and status stopped mattering to me, and health and freedom became some of my core values
+**Money and status stopped mattering to me, and health and freedom became some of my core values.**
 
 It was weird though. I didn't want to live, but I didn't want to die either. For one, my death would've meant extreme pain for my parents, and I didn't want to be one to inflict such pain on others.
 
@@ -95,7 +95,7 @@ It was weird though. I didn't want to live, but I didn't want to die either. For
 
 Thankfully, acceptance eventually comes.
 
-- When you get things taken from you, you start paying attention to what you still have.
+**When you get things taken from you, you start paying attention to what you still have.**
 
 You can get your wallet stolen, but when you finally accept you're not getting the money back, you focus on what money you still have.
 

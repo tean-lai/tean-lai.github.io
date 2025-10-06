@@ -11,19 +11,12 @@ Resumes can't convey your full professional journey, so having a website can be 
 
 I don't think many people would find value in knowing about what programming languages I've worked with at a surface level, for example. But more people might care what I think about certain languages, many likely won't though, but that's okay.
 
-But even if my goal was to attract a job, I wouldn't want to center this site on professional things. I want to work with people with good characters. Tech-stack is irrelevant for that, and I would rather have my website convey that I am not *that* bad of a person.
+But even if my goal was to attract a job, I wouldn't want to center this site on professional things. I want to work with people with good characters. Tech-stack is irrelevant for that, and I would rather focus my website on who I am as a person.
 
-## Why I think people should share their thoughts and experiences
+## I think people should share their thoughts and experiences
 
-Life is short. Time is one of the biggest limiters in our lives. We just don't have enough time to think of everything, or to experience everything.
+I talk more about it [here](../world-view/people-should-share-exp)
 
-We ought to share more of our own lived experiences with each other, so we can artifically extend our lives. If I hear the life stories of 4 other people, I could maybe "expand" my life by 4 more times! Disclaimer: that was not real math, please don't get mad at me.
-
-I have thoughts... and I have experiences. I want to share them.
-
-I find that it's quite easy to feel lonely in life, when you don't feel as if others can relate to your perspective. I think one way to relieve this is by hearing more perspectives that are similar. Maybe my perspective will align with some visitor of this page, and can alleviate some loneliness.
-
-Even if my perspective doesn't align, it could serve some use by providing alternative perspectives in life.
 
 ## I took a course on professional website development
 
@@ -46,3 +39,15 @@ I want this site to feel snappy.
 It's still possible to make sites look aesthetically appealing with minimal JavaScript.
 
 <!-- I believe that we should work with computers as they are, not what we think they are. They are not just abstract machines, but concrete machines that take resources to operate. Different abstractions require different amounts of resources, and I want to be mindful of such resource-usage when choosing which abstractions to use. This is more a general statement, not trying to shame JavaScript users in particular. With JavaScript, there are many things you can build that are much harder to do otherwise, and there is value in building such things too. -->
+
+## Using a static site generator
+
+Static site generators are nice because it frees me from needing to think much about HTML and CSS. They raise the abstraction level for website development, without being too far out of my control like other website builders.
+
+I want my website to be primarily static content, so this works well.
+
+It's easy to create reusable CSS too. To be fair, I don't know if it's just as easy with raw HTML and CSS, but I anticipate that not being the case.
+
+It's also quite performant.
+
+As for why Hugo in particular? It was one of the first ones I found, and it seemed quite popular and it works. I haven't encountered any issues so far.

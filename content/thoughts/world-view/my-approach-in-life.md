@@ -1,6 +1,7 @@
 # How I want to live my life
 
 - Fail fast. Fail often. Don't repeat failures.
+  - I used to avoid failures because I thought it signaled I was untalented. But ["talent" is an illusion anyways](../illusion-of-talent).
 - Don't work hard. Work smart or play hard.
 - No to golden rule: "Treat others how you wish to be treated". 
   - Instead, yes to platinum rule: "Treat others how they wish to be treated".
