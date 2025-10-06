@@ -15,6 +15,7 @@ toc = true
 ## Experiences
 <!-- TODO: - [I joined a hardware-focused project team, despite being a "software person"] -->
 - [Developing arthritis as a teen](teenage-arthritis)
+- [What I admire about my parents](experiences/admiring-parents)
 <!-- - I once gave up on math -->
 <!-- - All my friends were gifted kids, I was not -->
 <!-- - My relationship with talent -->
@@ -41,10 +42,12 @@ toc = true
 - [Good parents trump socioeconomic privilege](parents-over-socioeconomic)
 <!-- TODO: Achieving awareness is 50% of the work done. -->
 
-## Learning
+## Education
 - [On transfer of learning](learning-transfer)
 - [On mental models](mental-models)
 - [Beginner programmers should learn Basic](basic-is-peak)
+- [My tips for studying for CS 3110 exams](education/studying-for-cs3110-exams)
+- [Emulate "prior experience" with different textbooks](education/emulate-prior-exp-with-textbooks)
 
 ## Insights from hobbies
 - [How League of Legends made me a better student](lol-makes-you-better-at-school)

@@ -13,18 +13,19 @@ I don't think many people would find value in knowing about what programming lan
 
 But even if my goal was to attract a job, I wouldn't want to center this site on professional things. I want to work with people with good characters. Tech-stack is irrelevant for that, and I would rather focus my website on who I am as a person.
 
-## I think people should share their thoughts and experiences
+## Why I talk about my thoughts and experiences
 
-I talk more about it [here](../world-view/people-should-share-exp)
+I think in general, [people should share their thoughts and experiences](../world-view/people-should-share-exp).
 
-
-## I took a course on professional website development
+## Influences from a professional website development course
 
 As one of my engineering degree's requirements, I had to take a communications course. I could take a variety of courses to fulfill this requirement, and I chose one that centered around developing professional websites.
 
 In this course, we would analyze other engineers' portfolio websites. The websites that I felt drawn to the most were ones where the engineers would talk a lot about their internal thoughts, or when they share what other cool things they might be up to, like art. I find it fascinating to see who people are beyond their professional career.
 
 This course also inspired me to be more intentional on what I want this site to be about, and to be more intentional about what I want to communicate to the internet.
+
+My next immediate career goal is to become a senior-level engineer. The content of this site is influenced by that goal.
 
 ## Why I want this site to be minimal
 
