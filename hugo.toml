@@ -30,6 +30,7 @@ pagination.pagerSize = 5  # not sure what this does
     [[languages.en.menu.main]]
       identifier = "wiki"
       name = "Wiki"
+      url = "/wiki"
       weight = 3
     [[languages.en.menu.main]]
       identifier = "professional"
