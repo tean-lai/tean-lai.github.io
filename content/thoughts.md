@@ -34,12 +34,15 @@ toc = true
 ## World view
 - [How I want to approach life](my-approach-in-life)
 - [A more realistic interpretation of the tortoise and the hare](turtle-and-bunny)
-- [Empathy is much harder than people give credit for](empathy-is-hard)
 - ["Talent" is an illusion](illusion-of-talent)
 - [Navigating toxic friendships](toxic-friendships)
 - [The true value in pursuing excellence](world-view/pursuit-of-excellence)
 - [Ragebaiting only works against people with weak characters](ragebait-and-character)
 - [Good parents trump socioeconomic privilege](parents-over-socioeconomic)
+- [Power is freedom](world-view/power-is-freedom)
+- [People don't feel old due to years lived, they feel old due to their weakening bodies](world-view/feeling-old)
+- [Misinformation is only a problem in a society lacking critical thinking](world-view/misinformation-and-critical-thinking)
+- [Religion is good](world-view/religion-is-good)
 <!-- TODO: Achieving awareness is 50% of the work done. -->
 
 ## Education
@@ -57,3 +60,9 @@ toc = true
 
 <!-- asian american experience -->
 
+## Rants
+- [Empathy is much harder than people give credit for](empathy-is-hard)
+- [Some people act like only they know Dunning-Kruger effect](rants/dunning-kruger)
+- [Science is not a religion](rants/science-is-not-religion)
+- [Its not just calories in calories out](rants/calories-in-calories-out)
+<!-- overly simplified science claims are too prevalent -->

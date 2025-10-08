@@ -2,7 +2,9 @@
 title = "OCaml"
 +++
 
-[Avoiding redundant memory allocations](avoid-redundant-allocations)
+[Avoiding redundant memory allocations](../ocaml-avoid-redundant-allocations)
+
+[Shadowing types in OCaml](../ocaml-shadowing-types)
 
 ## Learning OCaml
 Jane Street has some pretty good style guidelines regarding programming in OCaml, check them out here: https://opensource.janestreet.com/standards/.

@@ -22,5 +22,7 @@ One of them always worked night shift, so that they could tend to us during the 
 
 **They positioned well for opportunities.** I think my Mom is particularly good at this. We had to move states while I was in elementary school, but my Mom made sure to find the best school district she could. It paid off immensely in many ways. I also wanted private violin lessons at some point, and although my Mom didn't know many great teachers, she found me a violin camp, that introduced me to my violin teacher, another GOAT in my life. Maybe a lot of luck was involved. But this luck only came after good positioning.
 
+**My Mom is always willing to help people.** She lowkey carries our extended family when it comes to taxes, utilities, even property management. But I see that she will drop her time to help co-workers too, even if they are texting her out of office hours. Naturally, I would just ignore out-of-office requests and am more selfish with my time in general, but seeing my Mom's generosity towards people is inspiring.
 
+**They don't obsess over what other people think.** I think this one is a good one. Both of my parents don't really concern themselves too much with maintaining an image. Their reputation at work is fine because they are competent. It was weird to me to see that a lot of people care quite a bit about what other people think of them.
 
