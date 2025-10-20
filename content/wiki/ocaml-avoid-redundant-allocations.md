@@ -15,14 +15,14 @@ match x with
 
 Line 3 is the problem, there the branch reallocates a new object in memory that is structurally the same.
 
-A more-performant, but structurally equal is the following alternative:
+A more-performant, but structurally equal implmenetation is the following alternative:
 ```ocaml
 match x with
   | None -> Some 0
   | Some n -> x
 ```
 
-It's a small change, but it can make a difference at a bigger scale.
+It's a small change, but it can make a difference at a large scale.
 
 ## Hash-consing
 Sometimes it's hard to avoid reallocating objects with the same structure.
