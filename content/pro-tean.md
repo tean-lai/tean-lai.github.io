@@ -4,9 +4,13 @@ updated = "2025-10-5"
 +++
 **protean (adj): able to do many different things; versatile.**
 
-I'm currently a Head TA for [CS 3110](cs-3110) and an RTL Member for [Cornell Custom Silicon Systems](c2s2).
+I'm currently:
+- a head TA for [CS 3110](cs-3110), a functional programming course
+- an member on [Cornell Custom Silicon Systems](c2s2)'s RTL subteam.
 
 My next stop is returning to Semgrep, to work on program analysis.
+
+I also enjoy teaching, and have held a variety of teaching roles in the past.
 
 ## In the past
 

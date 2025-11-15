@@ -1,5 +1,5 @@
 +++
-title = "Thoughts"
+title = "Notes"
 toc = true
 +++
 ## Projects 
