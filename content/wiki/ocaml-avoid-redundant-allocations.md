@@ -48,3 +48,4 @@ let remove_extra_alloc maybe_repeat =
 
 This does introduce overhead due to hash table checking, but in some programs, it can dramatically reduce memory pressure, leading to improved performance.
 
+If interested, here is a link to the Wikipedia page: https://en.wikipedia.org/wiki/Hash_consing.
