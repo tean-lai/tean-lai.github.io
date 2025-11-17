@@ -1,9 +1,9 @@
 +++
 draft = false
 title = "On Courses I've Taken at Cornell"
-date = "2024-11-08"
+toc = true
 +++
-# On Courses I've Taken at Cornell
+<!--date = "2024-11-08"-->
 
 ## Semester 1 (Fall 2022)
 
@@ -119,7 +119,23 @@ I don't think I'm a fan of assignments that require training that can last 30 mi
 ## Semester 7 (Fall 2025)
 
 ### ECE 6775: High Level Synthesis
+I really liked this course. While you learn how to use HLS tools to convert C++ into FPGA bitstreams, you learn a lot in general about accelerator design and EDA tools.
+
+I highly recommend this course.
 
 ### CS 4414: Systems Programming
 
+This is the last semester Prof. Birman is teaching this course, so this review is already going to be out-dated.
+
+This class is okay as a story-telling class. Every lecture is essentially Prof. Birman telling some story about his life. Honesly, I enjoy those stories, it's interesting to hear him talk about his experience developing software for France's air traffic control. However, the course hasn't felt particularly helpful for me to learn systems programming.
+
+I thought the lectures lacked rigor. Assignments did too, they were just tedious if anything.
+
+I found the assignments pretty uninteresting.
+
+
 ### CS 5414: Distributed Computing
+
+PEAK CLASS. Prof. Alvisi is the GOAT at lecturing, every class is a delight. Topic is also super interesting.
+
+The programming assignments are fun and high-quality too. They are hard, but very satisfying to work through.

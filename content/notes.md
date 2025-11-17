@@ -2,20 +2,28 @@
 title = "Notes"
 toc = true
 +++
-## Projects 
+## Projects
 <!-- - [On settling on tools to use](finding-tools) -->
 <!-- - [Choosing a text editor](choosing-a-text-editor) -->
-- [Designing my website](projects/designing-my-website)
+- [Personal website](projects/personal-website)
 
-## Reviews
+## Cornell
 - [Reviewing courses I've taken at Cornell](cornell-courses)
+- [My tips for studying for CS 3110 exams](education/studying-for-cs3110-exams)
+
+## Video games
 - [Reviewing games I've played](reviews/games)
+<!--TODO: break up games into multiple pages-->
+- [How League of Legends made me a better student](lol-makes-you-better-at-school)
+- [What Geometry Dash taught me about success](geometry-dash-and-success)
+
+## Programming languages
 - [Reviewing programming languages](reviews/programming-languages)
 
-## Experiences
+## Life experiences
 <!-- TODO: - [I joined a hardware-focused project team, despite being a "software person"] -->
-- [Developing arthritis as a teen](teenage-arthritis)
-- [What I admire about my parents](experiences/admiring-parents)
+- [Developing arthritis as a teen](life-experiences/teenage-arthritis)
+- [What I admire about my parents](life-experiences/admiring-parents)
 <!-- - I once gave up on math -->
 <!-- - All my friends were gifted kids, I was not -->
 <!-- - My relationship with talent -->
@@ -48,17 +56,19 @@ toc = true
 ## Education
 - [On transfer of learning](learning-transfer)
 - [On mental models](mental-models)
-- [Beginner programmers should learn Basic](basic-is-peak)
-- [My tips for studying for CS 3110 exams](education/studying-for-cs3110-exams)
 - [Emulate "prior experience" with different textbooks](education/emulate-prior-exp-with-textbooks)
 
-## Insights from hobbies
-- [How League of Legends made me a better student](lol-makes-you-better-at-school)
-- [What Geometry Dash taught me about success](geometry-dash-and-success)
-- [Vim sorta makes me more productive](vim-and-productivity)
-<!-- - [Mentors are overpowered in life and completely slept on](mentors-are-op) -->
+## Technology
+- [Beginner programmers should learn Basic](basic-is-peak)
 
-<!-- asian american experience -->
+<!-- TODO: - [Mentors are overpowered in life and completely slept on](mentors-are-op) -->
+
+<!-- TODO: asian american experience -->
+## Productivity
+<!--- [Vim sorta makes me more productive](vim-and-productivity)-->
+- [What I think it means to be productive](productivity/my-definition)
+- [Productivity content is often odd](productivity/gurus-are-odd)
+- [I went back to using a single monitor](productivity/single-monitor)
 
 ## Rants
 - [Empathy is much harder than people give credit for](empathy-is-hard)

@@ -1,6 +1,0 @@
-+++
-title = "Wiki"
-+++
-
-
-[OCaml](ocaml)
